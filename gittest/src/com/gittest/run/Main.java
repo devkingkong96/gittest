@@ -6,5 +6,4 @@ public class Main {
 		System.out.println("안녕 git 반가워!");
 		System.out.println("난 EDV브랜치 우하하");
 	}
-
 }
